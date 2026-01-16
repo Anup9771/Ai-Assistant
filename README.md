@@ -26,4 +26,4 @@ AI Assistant is a simple project that helps users perform basic tasks using voic
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/ai-assistant.git
+   git clone https://github.com/Anup9771/ai-assistant.git
